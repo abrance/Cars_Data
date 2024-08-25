@@ -1,4 +1,4 @@
-首字母,品牌ID,品牌名,Logo图片本地地址
+prefix,brand_id,name,logo_location
 A,33,奥迪,Logo\33.JPG
 A,35,阿斯顿·马丁,Logo\35.JPG
 A,221,安凯客车,Logo\221.JPG
