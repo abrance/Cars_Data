@@ -1,0 +1,4 @@
+631:1: Column 'price' cannot be null
+3668:1: Column 'price' cannot be null
+3669:1: Column 'price' cannot be null
+3670:1: Column 'price' cannot be null
